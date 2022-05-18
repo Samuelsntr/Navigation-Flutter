@@ -49,7 +49,7 @@ Widget _myListView(BuildContext context) {
         title: Text('Help'),
       ),
       ListTile(
-        leading: Icon(Icons.warning_rounded),
+        leading: Icon(Icons.info_rounded),
         title: Text('About'),
       ),
       ListTile(
