@@ -37,7 +37,7 @@ Widget _myListView(BuildContext context) {
         title: Text('Notification'),
       ),
       ListTile(
-        leading: Icon(Icons.star),
+        leading: Icon(Icons.lock),
         title: Text('Privacy'),
       ),
       ListTile(
@@ -49,7 +49,7 @@ Widget _myListView(BuildContext context) {
         title: Text('Help'),
       ),
       ListTile(
-        leading: Icon(Icons.star),
+        leading: Icon(Icons.warning_rounded),
         title: Text('About'),
       ),
       ListTile(
